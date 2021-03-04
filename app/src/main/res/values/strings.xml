@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WSURecyclerViewJava</string>
+    <string name="noname">NoName</string>
+    <string name="comma">, </string>
+    <string name="nobody">Nobody</string>
+    <string name="dash"> - </string>
+    <string name="no_title">No Title</string>
+</resources>
